@@ -16,4 +16,6 @@ streamlit run app.py
 ```
 3. Disfrutar
 
+# Interfaz
 
+![Interfaz de la applicación](diamanteapp.png)
